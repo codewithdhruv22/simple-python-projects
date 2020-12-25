@@ -1,5 +1,5 @@
 #pip install googletrans==4.0.0-rc1
-#convert languages from one to another using google translate and python
+#convert text from one language to another using google translate and python
 
 from googletrans import Translator, LANGUAGES
 from googletrans.models import Translated
